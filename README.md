@@ -5,7 +5,7 @@ Md5 encryption in C/C++
 
 This project is about Md5 encrytion.
 
-The algorithm is base on RFC 1321 (MD5) - The MD5 Message-Digest Algorithm
+The algorithm is based on RFC 1321 (MD5) - The MD5 Message-Digest Algorithm
 
 You can visite [Here](http://tools.ietf.org/html/rfc1321) for more infomation.
 
